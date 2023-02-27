@@ -1,0 +1,29 @@
+# start your virtual environment
+
+![img.png](img.png "STARTING  PAGE")
+
+create new project
+enter the project
+list to see component
+
+then migrate
+![img_1.png](img_1.png)
+JUST LIKE YOU SEE IT HERE
+
+SETTLE THE ADMIN BY USING THE COMMAND HERE
+![img_2.png](img_2.png)
+FILL IN THE USERNAME AND RUN SERVER
+
+QUIT IT AND CREATE ANOTHER MICROSERVICE INSIDE IT CALLED POST
+![img_3.png](img_3.png)
+
+ADD YOUR NEW MICROSERVICE TO THE LIST OF MICROSERVICE
+THE EXAMPLE USED POST
+![img_4.png](img_4.png)
+
+WE CREATE THE CLASS FOR THE MODELS IN THE MICROSERVICE AND MIGRATE
+![img_5.png](img_5.png)
+WE CREATED 2 CLASSES
+CATEGORY´´TITLE
+AND POSTS´´CARTEGORY,TITLE,SLUG,INTRO,BODY,CREATED AT,
+ 
